@@ -1,2 +1,2 @@
 # Tarjeta-De-Perfil
-Parjeta de Perfil para Github
+Tarjeta de Perfil para Github
